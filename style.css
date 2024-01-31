@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.contador {
+    text-align: center;
+}
+
+.contador span {
+    display: block;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1em;
+}
